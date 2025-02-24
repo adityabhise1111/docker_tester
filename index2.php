@@ -5,7 +5,7 @@ $username = 'avnadmin';
 $password = 'AVNS_FLZ6O_Tg7DtORc8cEcl';
 $dbname = 'defaultdb';
 $port = 19742;
-$ssl_mode = MYSQLI_CLIENT_SSL;
+//$ssl_mode = MYSQLI_CLIENT_SSL;
 
 // Connection string
 $mysqli = new mysqli($host, $username, $password, $dbname, $port);
