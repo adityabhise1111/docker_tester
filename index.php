@@ -1,3 +1,3 @@
 <?php
-echo "Hi, this is Docker running PHP ok!";
+echo "Hi, this is Docker running PHP aditya!";
 ?>
